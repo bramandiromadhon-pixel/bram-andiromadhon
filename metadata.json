@@ -1,0 +1,6 @@
+{
+  "name": "Sigma | Luxury Fashion & Haute Couture",
+  "description": "Sigma provides luxury fashion products across caps, shoes, dresses, formal attire, and fragrances in Indonesia with full checkout, order tracking, and support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
